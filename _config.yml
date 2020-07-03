@@ -358,7 +358,7 @@ widget:
 
 footer:
   # layout of footer: [aplayer, social, license, info, copyright]
-  layout: [aplayer, social, license, info, copyright]
+  layout: [social, license, info, copyright]
   social:
 #    - icon: fas fa-rss
 #      url: atom.xml
