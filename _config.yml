@@ -52,7 +52,7 @@ style:
     h6: 1rem
     body: 1rem
     list: .9375rem
-    meta: 1.2rem
+    meta: .875rem
     code: .8125rem
     footnote: .75rem
   fontfamily:
