@@ -186,7 +186,7 @@ meta:
   title: # 暂无配置
   # 默认文章作者（可在front-matter中覆盖）
   author:
-    avatar: https://jantok-1302532854.cos.ap-guangzhou.myqcloud.com/img/hexo/base/avatar.jpg
+    avatar: https://jantok-1302532854.cos.ap-shanghai.myqcloud.com/img/hexo/base/avatar.jpg
     name: JantoK
     url: http://129.211.78.206
   # 文章创建日期
@@ -266,7 +266,7 @@ widget:
   blogger:
     class: blogger
     display: [desktop, mobile] # [desktop, mobile]
-    avatar: https://jantok-1302532854.cos.ap-guangzhou.myqcloud.com/img/hexo/base/avatar.jpg
+    avatar: https://jantok-1302532854.cos.ap-shanghai.myqcloud.com/img/hexo/base/avatar.jpg
     shape: circle # circle, rectangle
     url: /about/
     title: JantoK
@@ -437,9 +437,9 @@ plugins:
     duration: 20000       # Duration (ms)
     fade: 1500            # fade duration (ms) (Not more than 1500)
     images:               # For personal use only. At your own risk if used for commercial purposes !!!
-      - https://jantok-1302532854.cos.ap-guangzhou.myqcloud.com/img/hexo/base/maple-story.jpg
-#      - https://jantok-1302532854.cos.ap-guangzhou.myqcloud.com/img/hexo/base/Maplestory-wallpaper90.jpg
-#      - https://jantok-1302532854.cos.ap-guangzhou.myqcloud.com/img/hexo/base/MapleStory.jpeg
+      - https://jantok-1302532854.cos.ap-shanghai.myqcloud.com/img/hexo/base/maple-story.jpg
+#      - https://jantok-1302532854.cos.ap-shanghai.myqcloud.com/img/hexo/base/Maplestory-wallpaper90.jpg
+#      - https://jantok-1302532854.cos.ap-shanghai.myqcloud.com/img/hexo/base/MapleStory.jpeg
 #      - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/B18FCBB3-67FD-48CC-B4F3-457BA145F17A.jpeg
 #      - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/35F12181-F0E9-45BD-B134-37E4B4A660CF.jpeg
 #      - https://cdn.jsdelivr.net/gh/xaoxuu/cdn-wallpaper/abstract/00E0F0ED-9F1C-407A-9AA6-545649D919F4.jpeg
